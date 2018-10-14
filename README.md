@@ -82,3 +82,7 @@ I used for this linear SVR fitting , as recommended in the course. I was able to
 # Find cars Function
 I just tunned the tunned the fucntion given on the course, setting the same parameters used when training the model
 
+
+
+
+![imagen](https://user-images.githubusercontent.com/41348711/46921900-8d5c9600-d001-11e8-9540-596241a48057.png)
