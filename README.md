@@ -41,13 +41,20 @@ After some tunning I got a set of parameters with a good accuracy:
 |:---------------------:|:---------------------------------------------:| 
 | Spatial Bin       	| YCrCb color image input  							| 
 |                        | Spatial size = (16,16)	| 
+
+
 |:---------------------:|:---------------------------------------------:| 
 | Color Histogram        |      YCrCb color image input                                     |
 |                        | Number of bins = 32	| 
 |                        | Bins range = (0,1)	| 
+
+
 |:---------------------:|:---------------------------------------------:| 
 | Histogram of Gradients (HOG)        |      YCrCb color image input                                     |
 |                        | Number of orientations = 12	| 
 |                        | Pixels per cell = 16	| 
 |                        | Cells per block = 2	| 
 |                        | HOG channels = ALL	| 
+
+
+![imagen](https://user-images.githubusercontent.com/41348711/46921360-9d24ac00-cffa-11e8-8cb6-eccbf3a2f0cf.png)
