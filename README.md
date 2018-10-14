@@ -22,9 +22,11 @@ At this step I just imported the data sets (car and not cars) and plotted 8 rand
 Using the functions given in the course, 
 
 * Spatial binned feature extraction function:
-
+The plots below show the Binned features extracted from cars and not cars images when in 'LUV' color space
+![imagen](https://user-images.githubusercontent.com/41348711/46920302-7cedf080-cfec-11e8-85ad-0c1695aea451.png)
 
 * Color Histogram feature extraction function:
 * Histogram of gradient feature extraction function: 
 
 Covert color function is also used in combination with the above mentioned functions to get features of images of different color spaces
+
