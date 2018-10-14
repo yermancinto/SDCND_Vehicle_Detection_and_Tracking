@@ -23,9 +23,13 @@ Using the functions given in the course,
 
 * Spatial binned feature extraction function:
 The plots below show the Binned features extracted from cars and not cars images when in 'LUV' color space
+
 ![imagen](https://user-images.githubusercontent.com/41348711/46920302-7cedf080-cfec-11e8-85ad-0c1695aea451.png)
 
 * Color Histogram feature extraction function:
+
+![imagen](https://user-images.githubusercontent.com/41348711/46920329-eff76700-cfec-11e8-9684-a95a989dfdff.png)
+
 * Histogram of gradient feature extraction function: 
 
 Covert color function is also used in combination with the above mentioned functions to get features of images of different color spaces
