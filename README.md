@@ -37,10 +37,10 @@ The plots below show the YCrCb color space Histogram of a car image. Note that t
 Covert color function is also used in combination with the above mentioned functions to get features of images of different color spaces
 After some tunning I got a set of parameters with a good accuracy:
 
-| Image Feature        		|     Description	        					| 
-|:---------------------:|:---------------------------------------------:| 
-| Spatial Bin       	| YCrCb color image input  							| 
-|                        | Spatial size = (16,16)	| 
+| Spatial Bin 	        					| 
+|:------------------------------------------------------------------:| 
+|       	 YCrCb color image input  							| 
+|                         Spatial size = (16,16)	| 
 
 
 |:---------------------:|:---------------------------------------------:| 
