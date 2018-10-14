@@ -93,7 +93,11 @@ The pipeline detects relatively good vehicles but has some false positives. To s
 ![imagen](https://user-images.githubusercontent.com/41348711/46923204-bf2b2800-d014-11e8-8a39-bd04f7150a70.png)
 
 # Define the process image pipeline
-This pipeline just gathers all the functions above defined 
+This pipeline just gathers all the functions above defined. 
+I defined different searchs:
+
+
+
 
 
 
