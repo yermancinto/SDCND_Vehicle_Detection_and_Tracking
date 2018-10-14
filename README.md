@@ -90,13 +90,15 @@ The pipeline detects relatively good vehicles but has some false positives. To s
 * Apply Threshold - In my case I used threshold =2, so only pixels with some overlapping are kept
 * Draw labeled Boxes - Using the boxes inside the threshold, define new boxes to be drawn over the raw image
 
-![imagen](https://user-images.githubusercontent.com/41348711/46923204-bf2b2800-d014-11e8-8a39-bd04f7150a70.png)
+![imagen](https://user-images.githubusercontent.com/41348711/46923489-d8ce6e80-d018-11e8-9fea-c61f23e645e8.png)
 
 # Define the process image pipeline
 This pipeline just gathers all the functions above defined. 
 I defined different searchs:
 
 ![imagen](https://user-images.githubusercontent.com/41348711/46923353-c3f0db80-d016-11e8-9a67-8ab24b58ce93.png)
+
+![imagen](https://user-images.githubusercontent.com/41348711/46923204-bf2b2800-d014-11e8-8a39-bd04f7150a70.png)
 
 # Apply above mentioned pipeline to the project video 
 
