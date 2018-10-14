@@ -82,11 +82,19 @@ I used for this linear SVR fitting , as recommended in the course. I was able to
 # Find cars Function
 I just tunned the fucntion given on the course, setting the same parameters used when training the model
 
+![imagen](https://user-images.githubusercontent.com/41348711/46921900-8d5c9600-d001-11e8-9540-596241a48057.png)
+
 # Heat functions
 The pipeline detects relatively good vehicles but has some false positives. To solve this, Heat fucntions are added to the pipeline . These functions will keep overlaping detections but discard the single detections. These functions are copied from the the course.
 * Add Heat: Returns the Heat map
 * Apply Threshold - In my case I used threshold =2, so only pixels with some overlapping are kept
 * Draw labeled Boxes - Using the boxes inside the threshold, define new boxes to be drawn over the raw image
 
+# Define the process image pipeline
+ 
 
-![imagen](https://user-images.githubusercontent.com/41348711/46921900-8d5c9600-d001-11e8-9540-596241a48057.png)
+
+
+# Apply above mentioned pipeline to the project video 
+
+
