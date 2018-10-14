@@ -100,4 +100,4 @@ I defined different searchs:
 
 # Apply above mentioned pipeline to the project video 
 
-
+![imagen](https://user-images.githubusercontent.com/41348711/46923379-1df1a100-d017-11e8-863c-0cfd00028f69.png)
