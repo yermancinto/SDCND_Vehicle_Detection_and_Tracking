@@ -12,4 +12,10 @@ The goals / steps of this project are the following:
 
 # Import  the data sets and data exploration
 
-At this stel I just imported the data sets (car and not cars) and plotted some 8 random images of each of them
+At this step I just imported the data sets (car and not cars) and plotted some 8 random images of each of them:
+
+![imagen](https://user-images.githubusercontent.com/41348711/46919583-9c335080-cfe1-11e8-9bb9-203cfeb570d3.png)
+
+# Define the features extraction features
+
+Using the functions given in the course
