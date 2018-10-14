@@ -60,4 +60,4 @@ After some tunning I got a set of parameters with a good accuracy:
 |                         HOG channels = ALL	| 
 
 
-![imagen](https://user-images.githubusercontent.com/41348711/46921360-9d24ac00-cffa-11e8-8cb6-eccbf3a2f0cf.png)
+
