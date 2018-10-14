@@ -24,7 +24,7 @@ Using the functions given in the course,
 * Spatial binned feature extraction function:
 The plots below show the Binned features extracted from cars and not cars images when in 'LUV' color space
 
-![imagen](https://user-images.githubusercontent.com/41348711/46920302-7cedf080-cfec-11e8-85ad-0c1695aea451.png)
+![imagen](https://user-images.githubusercontent.com/41348711/46920359-79a73480-cfed-11e8-9a1d-91481e08f0a7.png)
 
 * Color Histogram feature extraction function:
 
