@@ -31,8 +31,11 @@ The plots below show the YCrCb color space Histogram of a car image. Note that t
 
 ![imagen](https://user-images.githubusercontent.com/41348711/46920413-487b3400-cfee-11e8-9b2f-6005ecafc493.png)
 
-* Histogram of gradient feature extraction function: 
+* Histogram of gradient feature extraction function
 
+
+
+# Define the features extraction functions
 
 Covert color function is also used in combination with the above mentioned functions to get features of images of different color spaces
 After some tunning I got a set of parameters with a good accuracy:
@@ -61,3 +64,7 @@ After some tunning I got a set of parameters with a good accuracy:
 
 ![imagen](https://user-images.githubusercontent.com/41348711/46921441-8af73d80-cffb-11e8-96ed-eee49fd46468.png)
 
+
+# Extract features of the cars and Nor cars data sets:
+
+![imagen](https://user-images.githubusercontent.com/41348711/46921457-d7427d80-cffb-11e8-87b0-efdf8940b88b.png)
