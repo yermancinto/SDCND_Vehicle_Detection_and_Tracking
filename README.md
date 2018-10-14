@@ -96,10 +96,7 @@ The pipeline detects relatively good vehicles but has some false positives. To s
 This pipeline just gathers all the functions above defined. 
 I defined different searchs:
 
-
-
-
-
+![imagen](https://user-images.githubusercontent.com/41348711/46923353-c3f0db80-d016-11e8-9a67-8ab24b58ce93.png)
 
 # Apply above mentioned pipeline to the project video 
 
