@@ -28,6 +28,8 @@ The plots below show the Binned features extracted from cars and not cars images
 
 * Color Histogram feature extraction function:
 
+
+
 ![imagen](https://user-images.githubusercontent.com/41348711/46920349-49f82c80-cfed-11e8-87d6-edeab5b4b881.png)
 
 ![imagen](https://user-images.githubusercontent.com/41348711/46920329-eff76700-cfec-11e8-9684-a95a989dfdff.png)
