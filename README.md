@@ -36,21 +36,12 @@ The plots below show the YCrCb color space Histogram of a car image. Note that t
 
 Covert color function is also used in combination with the above mentioned functions to get features of images of different color spaces
 After some tunning I got a set of parameters with a good accuracy:
+
 | Feature Layer        		|     Description	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | Spatial Bin       	| YCrCb color image   							| 
 |                        | Spatial size = (16,16)	| 
 |:---------------------:|:---------------------------------------------:| 
-| Color Histogram        |
-| RELU	activ. fucntion				|												|
-| Max pooling	      	| 2x2 stride,  valid padding,  outputs 14x14x6 	|
-| Convolution 5x5	    | 1x1 stride, valid padding, outputs 10x10x6 	|
-| RELU	activ. fucntion				|			
-| Max pooling	      	| 2x2 stride,  valid padding,  outputs 5x5x16 	|
-| Flatten				|
-| Fully connected		|         							outputs 120		|
-| RELU	activ. fucntion				|		
-| Dropout				|	0.5 |	
-| Fully connected		|         							outputs 84		|
-| RELU	activ. fucntion				|		
-| Fully connected		|         							outputs 43		|	
+| Color Histogram        |                                           |
+
+
