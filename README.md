@@ -90,8 +90,10 @@ The pipeline detects relatively good vehicles but has some false positives. To s
 * Apply Threshold - In my case I used threshold =2, so only pixels with some overlapping are kept
 * Draw labeled Boxes - Using the boxes inside the threshold, define new boxes to be drawn over the raw image
 
+![imagen](https://user-images.githubusercontent.com/41348711/46923204-bf2b2800-d014-11e8-8a39-bd04f7150a70.png)
+
 # Define the process image pipeline
- 
+This pipeline just gathers all the functions above defined 
 
 
 
