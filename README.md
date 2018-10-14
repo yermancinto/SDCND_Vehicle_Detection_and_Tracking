@@ -74,3 +74,8 @@ The dataset is splitted in 80%-Training set 20%-Test set
 
 ![imagen](https://user-images.githubusercontent.com/41348711/46921535-f68dda80-cffc-11e8-93f3-83e95803a564.png)
 
+# Model Fitting: 
+I used for this linear SVR fitting , as recommended in the course. I was able to get 99% accuracy
+
+![imagen](https://user-images.githubusercontent.com/41348711/46921587-8e8bc400-cffd-11e8-8879-2f915ff5d1ec.png)
+
