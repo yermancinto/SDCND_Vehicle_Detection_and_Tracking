@@ -69,5 +69,8 @@ After some tunning I got a set of parameters with a good accuracy:
 
 
 # Normalization:
+At this step the training data set is Normalized using the standard scalarer function from sklearn.
+The dataset is splitted in 80%-Training set 20%-Test set
 
+![imagen](https://user-images.githubusercontent.com/41348711/46921535-f68dda80-cffc-11e8-93f3-83e95803a564.png)
 
