@@ -17,9 +17,9 @@ At this step I just imported the data sets (car and not cars) and plotted 8 rand
 
 ![imagen](https://user-images.githubusercontent.com/41348711/46919583-9c335080-cfe1-11e8-9bb9-203cfeb570d3.png)
 
-# Define the features extraction features
+# Define the features extraction functions
 
-Using the functions given in the course, 
+Tunning the functions given in the course I got decent results. See below the functions I used and some example of the outputs I got from them:
 
 * Spatial binned feature extraction function:
 The plots below show the Binned features extracted from cars and not cars images when in 'LUV' color space
@@ -27,11 +27,15 @@ The plots below show the Binned features extracted from cars and not cars images
 ![imagen](https://user-images.githubusercontent.com/41348711/46920359-79a73480-cfed-11e8-9a1d-91481e08f0a7.png)
 
 * Color Histogram feature extraction function:
+The plots below show the YCrCb color space Histogram of a car image. Note that the bin range is 0-1.
 
 ![imagen](https://user-images.githubusercontent.com/41348711/46920413-487b3400-cfee-11e8-9b2f-6005ecafc493.png)
 
-
 * Histogram of gradient feature extraction function: 
 
-Covert color function is also used in combination with the above mentioned functions to get features of images of different color spaces
 
+Covert color function is also used in combination with the above mentioned functions to get features of images of different color spaces
+After some tunning I got a set of parameters with a good accuracy:
+* Spatial binned feature extr:
+      * Color space:
+      * 
