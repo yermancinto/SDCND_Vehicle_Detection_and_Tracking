@@ -37,11 +37,17 @@ The plots below show the YCrCb color space Histogram of a car image. Note that t
 Covert color function is also used in combination with the above mentioned functions to get features of images of different color spaces
 After some tunning I got a set of parameters with a good accuracy:
 
-| Feature Layer        		|     Description	        					| 
+| Image Feature        		|     Description	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| Spatial Bin       	| YCrCb color image   							| 
+| Spatial Bin       	| YCrCb color image input  							| 
 |                        | Spatial size = (16,16)	| 
 |:---------------------:|:---------------------------------------------:| 
-| Color Histogram        |                                           |
-
-
+| Color Histogram        |      YCrCb color image input                                     |
+|                        | Number of bins = 32	| 
+|                        | Bins range = (0,1)	| 
+|:---------------------:|:---------------------------------------------:| 
+| Histogram of Gradients (HOG)        |      YCrCb color image input                                     |
+|                        | Number of orientations = 12	| 
+|                        | Pixels per cell = 16	| 
+|                        | Cells per block = 2	| 
+|                        | HOG channels = ALL	| 
