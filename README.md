@@ -56,7 +56,7 @@ After some tunning I got a set of parameters with a good accuracy:
 |:------------------------------------------------------------------:| 
 |                         YCrCb color image input  	| 
 |                         Number of orientations = 12	| 
-|                       Pixels per cell = 16	| 
+|                       Pixels per cell = 8	| 
 |                         Cells per block = 2	| 
 |                         HOG channels = ALL	| 
 
