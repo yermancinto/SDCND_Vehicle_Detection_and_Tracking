@@ -31,7 +31,9 @@ The plots below show the YCrCb color space Histogram of a car image. Note that t
 
 ![imagen](https://user-images.githubusercontent.com/41348711/46920413-487b3400-cfee-11e8-9b2f-6005ecafc493.png)
 
-* Histogram of gradient feature extraction function
+* Histogram of gradient feature extraction function:
+
+![imagen](https://user-images.githubusercontent.com/41348711/46970090-58f7e100-d0b8-11e8-9dae-bad46e592db3.png)
 
 # Define the features extraction functions
 
